@@ -11,7 +11,7 @@ GO
 CREATE DATABASE DataWarehouse;
 GO
 
-use DataWarehouse;
+USE DataWarehouse;
 GO
 
 --create schema
